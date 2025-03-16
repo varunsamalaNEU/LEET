@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/varun/CLionProjects/LEET/Project_LL/cmake-build-debug",
-		"source" : "/home/varun/CLionProjects/LEET/Project_LL"
+		"build" : "/home/varun/CLionProjects/Leet/Project_LL/cmake-build-debug",
+		"source" : "/home/varun/CLionProjects/Leet/Project_LL"
 	},
 	"version" : 
 	{
