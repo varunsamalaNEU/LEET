@@ -19,8 +19,8 @@ public:
     }*/
 
     Node(int data) {
-         this->data = data;
-         this->next = NULL;
+        this->data = data;
+        this->next = NULL;
 
     }
 
@@ -46,7 +46,7 @@ void InsertionAtTail(Node* &head, int d) {
     }
     Node *ptr = head;
     while (ptr->next != NULL) {
-         ptr = ptr->next;
+        ptr = ptr->next;
     }
     Node* temp = new Node(d);
     temp->next = NULL;
@@ -97,7 +97,7 @@ int main() {
     Print(head);
     InsertionAtTail(head, 3);
     Print(head);
-    InsertionAtPostion(head,0, 4);
+    InsertionAtPostion(head,1, 4);
     Print(head);
     return 0;
 }
