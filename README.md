@@ -6,6 +6,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varunsamalaNEU/LEET/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/varunsamalaNEU/LEET/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/varunsamalaNEU/LEET/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/varunsamalaNEU/LEET/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/varunsamalaNEU/LEET/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
